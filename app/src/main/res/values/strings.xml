@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Number Converter</string>
+    <string name="result">Output will show in here..</string>
+    <string name="input">Enter number here..</string>
+    <string name="convert">CONVERT</string>
+    <string name="R_but1">Binary to Decimal</string>
+    <string name="R_but2">Decimal to Binary</string>
+    <string name="txt_convert">Convert to..</string>
+</resources>
